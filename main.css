@@ -3,9 +3,9 @@
 *****************************************/
 body {
   margin-top:20px;
-  font-family: Osaka;
+  font-family: 'Open Sans', sans-serif;
   background-color: ghostwhite;
-  color: inherit;
+  color: teal;
 }
 
 h2, h3, h5 {
